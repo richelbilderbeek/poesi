@@ -1,6 +1,9 @@
 # Sverige Är Som en Tonårsflicka
 
-...
+Sverige är som en flicka
+på första rad i klassrummet,
+svarar alla frågor av fröken rätt
+har lovat aldrig att röka eller att dricka
 
 ## Explanation
 
